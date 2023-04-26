@@ -18,3 +18,31 @@
 <p style="font-size: 18px; line-height: 1.5;">O estudo da termodinâmica avançada aprofunda-se nas propriedades dos fluidos e nas equações de estado, além de explorar ciclos termodinâmicos mais complexos, como o ciclo de Brayton, o ciclo de Carnot e o ciclo combinado. Além disso, a termodinâmica avançada é aplicada em áreas como a engenharia química, engenharia aeroespacial e na física de altas energias.</p>
 
 <p style="font-size: 18px; line-height: 1.5;">Neste repositório, você encontrará informações e recursos sobre a termodinâmica avançada, incluindo exemplos práticos, equações e simuladores, para ajudar no seu estudo e aplicação dessa área fascinante da física.</p>
+
+<hr>
+
+<h2 style="font-size: 24px;">Desafio 1</h2>
+<p style="font-size: 18px; line-height: 1.5;">A definição de uma mistura com potencial para fornecimento de energia ao ciclo Rankine (responsável pela geração de energia elétrica).</p>
+<p style="font-size: 18px; line-height: 1.5;">A definição de uma mistura com potencial para fornecimento de energia ao ciclo Rankine (responsável pela geração de energia elétrica). Nessa parte os grupos deverão definir os critérios os quais servirão para escolher a mistura. Uma propriedade importante a ser considerada é a entalpia, que é definida como uma função potencial termodinâmica.</p>
+<p style="font-size: 18px; line-height: 1.5;">Outro  aspecto importante a ser considerado é que a mistura deverá ser estudada em seu estado líquido em algum momento ao longo do desenvolvimento do problema. Para isso, os grupos deverão considerar os Diagramas de Fase dos compostos e da mistura.</p>
+
+<hr>
+
+<h2 style="font-size: 24px;">Desafio 2</h2>
+<p style="font-size: 18px; line-height: 1.5;">Um dos ciclos</p>
+
+<hr>
+
+<h2 style="font-size: 24px;">Desafio 3</h2>
+<p style="font-size: 18px; line-height: 1.5;">Um dos ciclos</p>
+
+<hr>
+
+
+</ul>
+	<h2>Referências</h2>
+	<ul>
+		<li>Livro: Introduction to Thermal Physics
+    <li>Livro: Physical Chemistry: A Molecular Approach
+	</ul>
+</body>
