@@ -38,6 +38,35 @@
 
 <hr>
 
+</html>
+
+
+## Colaboradores✨
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/CaioHubit"><img src="https://avatars.githubusercontent.com/u/110487580?v=4" width="100px;" alt=""/><br /><sub><b>Caio Eduardo</b></sub></a><br />Aluno</td>
+    <td align="center"><a href="https://github.com/Menegau"><img src="https://avatars.githubusercontent.com/u/106626814?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Menegau</b></sub></a><br />Aluno</td>
+  </tr>
+</table>
+
+## Mentores✨
+<!-- ALL-MENTORES-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/amaurijp"><img src="https://media.licdn.com/dms/image/C4D03AQGaA-aNz_6k1Q/profile-displayphoto-shrink_800_800/0/1662560884990?e=2147483647&v=beta&t=Gqyzww0FyCIxE0CCcMobYL7kV14oBjmyaDBhDQ7fSkc" width="100px;" alt=""/><br /><sub><b>Amauri Jardim de Paula</b></sub></a><br />Professor</td>
+      </tr>
+</table>
+
+
 
 </ul>
 	<h2>Referências</h2>
